@@ -1,0 +1,15 @@
+{
+  "name": "Love Puzzle Lock",
+  "short_name": "LoveLock",
+  "description": "A premium romantic sliding puzzle game — seven levels, one heart.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ff9ec4",
+  "theme_color": "#ff6b9d",
+  "icons": [
+    { "src": "icons/icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "maskable" }
+  ]
+}
